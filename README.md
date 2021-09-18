@@ -2,7 +2,7 @@
 
 - Tasks on WSL2
 
-  1. Install Tailscale on WSL2
+  1. Install Tailscale on WSL2 (Ubuntu 20.04)
 
      ```shell
      curl -fsSL https://pkgs.tailscale.com/stable/ubuntu/focal.gpg | sudo apt-key add -
