@@ -84,7 +84,6 @@
           - any name you would like
         - Security options
           - select `Run whether user in logged on or not`
-          - check `Run with highest privileges`
         - Hidden:
           - check `Hidden`
         - Configure for:
